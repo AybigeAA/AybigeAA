@@ -5,6 +5,7 @@ booting pastel system...
 status: online ♡
 ```
 
+![test](https://github-readme-stats.vercel.app/api?username=AybigeAA)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AybigeAA&show_icons=true&theme=rose_pine&hide_border=true&cache_seconds=86400)
 
 
