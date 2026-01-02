@@ -3,7 +3,7 @@
 ```txt
 booting pastel system...
 status: online ♡
-
+```
 
 <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=rose_pine&hide_border=true" />
 
